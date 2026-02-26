@@ -1,0 +1,14 @@
+D:\Projects\MYPROGRAM\C\OOP\bin\Debug\net10.0\OOP.exe
+D:\Projects\MYPROGRAM\C\OOP\bin\Debug\net10.0\OOP.deps.json
+D:\Projects\MYPROGRAM\C\OOP\bin\Debug\net10.0\OOP.runtimeconfig.json
+D:\Projects\MYPROGRAM\C\OOP\bin\Debug\net10.0\OOP.dll
+D:\Projects\MYPROGRAM\C\OOP\bin\Debug\net10.0\OOP.pdb
+D:\Projects\MYPROGRAM\C\OOP\obj\Debug\net10.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MYPROGRAM\C\OOP\obj\Debug\net10.0\OOP.AssemblyInfoInputs.cache
+D:\Projects\MYPROGRAM\C\OOP\obj\Debug\net10.0\OOP.AssemblyInfo.cs
+D:\Projects\MYPROGRAM\C\OOP\obj\Debug\net10.0\OOP.csproj.CoreCompileInputs.cache
+D:\Projects\MYPROGRAM\C\OOP\obj\Debug\net10.0\OOP.dll
+D:\Projects\MYPROGRAM\C\OOP\obj\Debug\net10.0\refint\OOP.dll
+D:\Projects\MYPROGRAM\C\OOP\obj\Debug\net10.0\OOP.pdb
+D:\Projects\MYPROGRAM\C\OOP\obj\Debug\net10.0\OOP.genruntimeconfig.cache
+D:\Projects\MYPROGRAM\C\OOP\obj\Debug\net10.0\ref\OOP.dll
